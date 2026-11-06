@@ -1,0 +1,25 @@
+## Build and Output Folders
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## Visual Studio files
+.vs/
+*.user
+*.userprefs
+*.suo
+*.sln.docstates
+*.opensdf
+*.sdf
+*.ipch
+
+## Temporary Files
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
