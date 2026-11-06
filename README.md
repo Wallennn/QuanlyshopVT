@@ -57,3 +57,4 @@ Hệ thống quản lý chuỗi cửa hàng bán lẻ thời trang Việt Tiến
    - Nhấp đúp vào file `QuanlyshopVT.sln` trong Visual Studio (hỗ trợ VS 2010 / 2012 / 2015 / 2017 / 2019 / 2022).
 3. **Build & Chạy**:
    - Nhấn **F5** hoặc chọn **Debug > Start Debugging** để khởi chạy ứng dụng.
+
